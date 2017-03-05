@@ -10,7 +10,7 @@ The course comprises of 4 modules which are
 - M3_Managing Data  
 - M4_Visualizing Data  
 
-In each lab directory, there are 4 types of file:  
+In each module directory, there are 3 types of file:  
 - Assn = Assignment (blog post and code)
 - Example = Files related to example (code and code book)  
 - Practices = Code for exercise
@@ -19,4 +19,4 @@ In each lab directory, there are 4 types of file:
 
 ***Assignment Instruction***
 
-All of the assignment in this Specialization is shown in my [personal blog](http://smallpiworld.tumblr.com/) with pupose of sharing work, insight, and progress as the course moves along. 
+All of the assignment in this course is shown in [my personal blog](http://smallpiworld.tumblr.com/) with pupose of sharing work, insight, and progress as the course moves along. 
