@@ -2,7 +2,7 @@
 
 ***
 
-This repository contains the code example and assignment files from MOOC course, *Data Analysis Tools* which is part of specialization offered by Wesleyan University, *Regression Modeling in Practice*, which I have worked through in [coursera](https://www.coursera.org/specializations/data-analysis).
+This repository contains the code example and assignment files from MOOC course, *Regression Modeling in Practice* which is part of specialization offered by Wesleyan University, *Data Analysis and Interpretation*, which I have worked through in [coursera](https://www.coursera.org/specializations/data-analysis).
 
 The course comprises of 4 modules which are 
 - M1_Introduction to Regression ([Assignment](http://smallpiworld.tumblr.com/post/147837072805/regression-modeling1-writing-about-data))  
